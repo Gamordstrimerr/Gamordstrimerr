@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Welcome on my Github Profile 
 
-<!--
-**Gamordstrimerr/Gamordstrimerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 👨‍💻 Interests and Hobbies:
 
-Here are some ideas to get you started:
+Self-taught and passionate about video games and computers,
+I had the opportunity to learn programming (particularly Java).
+I have notably created plugins and servers for Minecraft on several occasions.
+I have also used Proxmox to deploy multiple virtual machines under different operating systems.
+---
+### 💻 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 In learning:
+
+- Python
+- Javascript(React.js)
+#### 🏆 Acquired:
+
+- Java
+- Html, CSS
+- 
