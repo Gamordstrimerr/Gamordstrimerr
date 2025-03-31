@@ -34,4 +34,4 @@ I have also used Proxmox to deploy multiple virtual machines under different ope
 - **[World Creator](https://github.com/Gamordstrimerr/WorldCreator)**: Project for Minecraft World Creation (Spigot API 1.8.8-R0.1-SNAPSHOT)
 - **[MC Bot App](https://github.com/Gamordstrimerr/McBotApp)**: Project Java with TCP protocol.
 
-✨Thank you for visiting my profile and don't hesitate to check my Repositories
+✨ Thank you for visiting my profile and don't hesitate to check my Repositories
