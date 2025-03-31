@@ -23,3 +23,4 @@ I have also used Proxmox to deploy multiple virtual machines under different ope
 - 🖥️ Virtualization (**Hypervisor** and **Virtual Machine**): Proxmox, Virtual Box
 
 ---
+### Objectives
