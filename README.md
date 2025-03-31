@@ -1,4 +1,4 @@
-## 👋 Welcome on my Github Profile 
+# 👋 Welcome on my Github Profile 
 
 ---
 ### 👨‍💻 Interests and Hobbies:
@@ -23,4 +23,13 @@ I have also used Proxmox to deploy multiple virtual machines under different ope
 - 🖥️ **Virtualization** (**Hypervisor** and **Virtual Machine**): Proxmox, Virtual Box
 
 ---
-### Objectives
+### 🚀 Objectives
+
+- **Master** the programming languages I'm **learning**.
+- Become a **good developer** capable of responding to *any situation*.
+- Contribute to *open source projects* to **collaborate** with other developers.
+
+---
+### 📂 Published Projects
+- **[World Creator](https://github.com/Gamordstrimerr/WorldCreator)**: Project for Minecraft World Creation (Spigot API 1.8.8-R0.1-SNAPSHOT)
+- **[MC Bot App](https://github.com/Gamordstrimerr/McBotApp)**: Project Java with TCP protocol.
