@@ -35,24 +35,3 @@ I have also used Proxmox to deploy multiple virtual machines under different ope
 - **[MC Bot App](https://github.com/Gamordstrimerr/McBotApp)**: Project Java with TCP protocol.
 
 ✨ Thank you for visiting my profile and don't hesitate to check my Repositories
-
-
-
-
-zetezq
-reqrez
-
-re
-
-re
-
-r
-e
-r
-e
-r
-e
-r
-e
-
-r
