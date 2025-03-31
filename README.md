@@ -11,7 +11,7 @@ I have also used Proxmox to deploy multiple virtual machines under different ope
 ---
 ### 💻 Skills:
 
-#### 🧠 learning:
+#### 🧠 Learning:
 
 - 🐍 **Python**: basic projects (Automation of any kind of task or "hacking project")
 - 🟨 **Javascript**(React.js): **Application** for connection with rest Api (*XMLHttpRequest*) | (**FrontEnd**)
