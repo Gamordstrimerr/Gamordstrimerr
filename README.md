@@ -17,18 +17,18 @@ From creating Minecraft plugins and managing servers to experimenting with virtu
 
 ## 🏆 My Current Skill Set
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28px"/> **Java**:
   - GUI Apps (JavaFX)
   - Minecraft Plugins (Spigot, Paper)
   - Backend APIs (Spring Boot)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> **Web Development**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22px"/> **Web Development**:
   - HTML, CSS ➡ front-end basics
   - PHP ➡ backend scripting for websites
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20px"/> **Virtualization**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/> **Virtualization**:
 
   - **Proxmox**, **VirtualBox**, **Docket** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"/> **Linux Enthusiast**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22px"/> **Linux Enthusiast**:
   - Terminal usage, server configuration, system exploration
 
 ## 🚀 Goals
