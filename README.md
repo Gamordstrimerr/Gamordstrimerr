@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to My GitHub Profile!
 
-### ❤️ Favorite Language: ☕ **Java**
+### ❤️ Favorite Language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**
 
 ## 👨‍💻 About Me
 
 Self-taught and passionate about computers and video games,  
-I’ve explored the world of programming with a strong focus on **Java**.
+I’m exploring the world of programming with a strong focus on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**.
 
 From creating Minecraft plugins and managing servers to experimenting with virtualization and building small applications, I love crafting things with code.
 
@@ -17,19 +17,19 @@ From creating Minecraft plugins and managing servers to experimenting with virtu
 
 ## 🏆 My Current Skill Set
 
-- ☕ **Java**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**:
   - GUI Apps (JavaFX)
   - Minecraft Plugins (Spigot, Paper)
   - Backend APIs (Spring Boot)
-- 🌐 **Web Development**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> **Web Development**:
   - HTML, CSS ➡ front-end basics
   - PHP ➡ backend scripting for websites
-- 🐘 **PHP** (only Backend): **Backend** development for websites (introduction to Backend)
-- 🖥️ **Virtualization**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20px"/> **PHP** (only Backend): **Backend** development for websites (introduction to Backend)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20px"/> **Virtualization**:
 
-  - **Proxmox**, **VirtualBox** ➡ deploying VMs under various Linux distros (Debian, Ubuntu, Kali)
+  - **Proxmox**, **VirtualBox**, **Docket** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
 
-- 🐧 **Linux Enthusiast**:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"/> **Linux Enthusiast**:
   - Terminal usage, server configuration, system exploration
 
 ## 🚀 Goals
