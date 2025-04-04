@@ -24,7 +24,6 @@ From creating Minecraft plugins and managing servers to experimenting with virtu
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> **Web Development**:
   - HTML, CSS ➡ front-end basics
   - PHP ➡ backend scripting for websites
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20px"/> **PHP** (only Backend): **Backend** development for websites (introduction to Backend)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20px"/> **Virtualization**:
 
   - **Proxmox**, **VirtualBox**, **Docket** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
