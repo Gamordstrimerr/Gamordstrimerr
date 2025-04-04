@@ -15,26 +15,25 @@ From creating Minecraft plugins and managing servers to experimenting with virtu
 
 ## 🧠 What I'm Learning
 
-- 🐍 **Python**: automation projects, scripts, and beginner-level cybersecurity tools
-- 🟨 **JavaScript (React.js)**: building front-end apps and working with REST APIs via `XMLHttpRequest`
-- 🛠️ **Dev Tools**: Git, GitHub, VS Code, IntelliJ IDEA
+| Language                                                                                                                                  | Description                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> **Python**                        | Automation projects and scripts                                         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> **JavaScript (React.js)** | Building front-end apps and working with REST APIs via `XMLHttpRequest` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px"/> **Dev Tools**                           | Git, GitHub, VS Code, IntelliJ IDEA                                     |
+
+---
 
 ## 🏆 My Current Skill Set
 
-- ☕ **Java**:
-  - GUI Apps (JavaFX)
-  - Minecraft Plugins (Spigot, Paper)
-  - Backend APIs (Spring Boot)
-- 🌐 **Web Development**:
-  - HTML, CSS ➡ front-end basics
-  - PHP ➡ backend scripting for websites
-- 🐘 **PHP** (only Backend): **Backend** development for websites (introduction to Backend)
-- 🖥️ **Virtualization**:
-
-  - **Proxmox**, **VirtualBox** ➡ deploying VMs under various Linux distros (Debian, Ubuntu, Kali)
-
-- 🐧 **Linux Enthusiast**:
-  - Terminal usage, server configuration, system exploration
+| Language                                                                                                                                  | Description                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**                              | GUI Apps (JavaFX), Minecraft Plugins (Spigot, Paper), Backend APIs (Spring Boot)       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> **Web Development**                 | HTML, CSS ➡ Front-end basics, PHP ➡ Backend scripting for websites                     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20px"/> **PHP**                                 | Backend development for websites                                                       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> **Python**                        | Automation projects and scripts                                                        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> **JavaScript (React.js)** | Building front-end apps and working with REST APIs via `XMLHttpRequest`                |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"/> **Linux Enthusiast**                | Terminal usage, server configuration, system exploration                               |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="20px"/> **Virtualization**                | Proxmox, VirtualBox ➡ Deploying VMs under various Linux distros (Debian, Ubuntu, Kali) |
 
 ---
 
